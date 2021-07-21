@@ -20,3 +20,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitjaglan07&show_icons=true&locale=en&layout=compact" alt="rohitjaglan07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitjaglan07&" alt="rohitjaglan07" /></p>
+(img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/1a/1a1925b1de116058e74cecebbce92eb6.gif")
